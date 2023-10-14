@@ -1,0 +1,48 @@
+[
+    {
+        "nick": "Faceless_Solitude",
+        "rank": "Лидер",
+        "fraction": "Varios Los Aztecas",
+        "reason": "Собеседование",
+        "ustwarn": 0,
+        "strwarn": 0,
+        "dateSet": 1688515200,
+        "forum": "https://forum.arizona-rp.com/members/988180/",
+        "vk": "https://vk.com/id464254903",
+        "history": [],
+        "active": true,
+        "theme": "1",
+        "discord": "1106956344231206932",
+        "online": [],
+        "server": 25,
+        "score": "0",
+        "dopdays": 2,
+        "immunities": 0
+    },
+    {
+        "nick": "Cornelio_Self",
+        "rank": "Лидер",
+        "fraction": "Varios Los Aztecas",
+        "reason": "Собеседование",
+        "ustwarn": 0,
+        "strwarn": 0,
+        "dateSet": 1688515200,
+        "forum": "https://forum.arizona-rp.com/members/988180/",
+        "vk": "https://vk.com/id464254903",
+        "history": [
+            {
+                "nick": "Test",
+                "type": 1,
+                "reason": "Офигел"
+            }
+        ],
+        "active": true,
+        "theme": "1",
+        "discord": "1106956344231206932",
+        "online": [],
+        "server": 25,
+        "score": "0",
+        "dopdays": 2,
+        "immunities": 0
+    }
+]
